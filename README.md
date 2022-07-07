@@ -12,7 +12,7 @@
 
 Stackover flow web scraping
 
-- Summary of idea
+## Summary of idea
 
 We are going to scrap data from stackover flow website to show the following data:
 1. Finding the duplicat questions in new tab and getting the answers of the previous answered similar questions
